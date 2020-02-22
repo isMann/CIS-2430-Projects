@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea/workspace.xml
+a1.iml
+.idea
+checkstyle
+*.class
